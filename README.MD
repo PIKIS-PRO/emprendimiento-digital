@@ -1,12 +1,10 @@
-# Título del Proyecto
+# Emprendimiento Digital
 
 Taller Practico de HTML y CSS
 
 ## Comenzando 🚀
 
 Esta practica muestra como aplicar estilos css a un sitio web construido con HTML.
-
-Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
